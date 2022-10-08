@@ -31,7 +31,7 @@
 | ------------- | ------------- | ------------- | 
 | N/A | N/A | N/A|
 
-### Devops
+### Devops.
 
 | Repository | Description | Languages and tools used |
 | ------------- | ------------- | ------------- | 
