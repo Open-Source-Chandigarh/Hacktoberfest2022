@@ -20,7 +20,7 @@
 | [hyperui](https://github.com/markmead/hyperui) | HyperUI is a large collection of free Tailwind CSS components for marketing, ecommerce and application UI | typescript, HTML |
 | N/A | N/A | N/A|
 
-### Backend
+### Backend.
 | Repository | Description | Languages and tools used |
 | ------------- | ------------- | ------------- | 
 | N/A | N/A | N/A|
