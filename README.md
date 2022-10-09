@@ -15,52 +15,61 @@
 
 ### Frontend
 
-| Repository                                     | Description                                                                                               | Languages and tools used |
-| ---------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ------------------------ |
-| [hyperui](https://github.com/markmead/hyperui) | HyperUI is a large collection of free Tailwind CSS components for marketing, ecommerce and application UI | typescript, HTML         |
-| N/A                                            | N/A                                                                                                       | N/A                      |
+| Repository | Description | Languages and tools used |
+| ------------- | ------------- | ------------- | 
+| [hyperui](https://github.com/markmead/hyperui) | HyperUI is a large collection of free Tailwind CSS components for marketing, ecommerce and application UI | typescript, HTML |
+| [storybook](https://github.com/storybookjs/storybook.git) | Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation. |react, javascript, vue, react-native |
+|[develpoerRoadmap](https://github.com/kamranahmedse/developer-roadmap.git)|Interactive roadmaps, guides and other educational content to help developers grow in their careers.| typescript, javascript|
+
 
 ### Backend
 
 | Repository | Description | Languages and tools used |
-| ---------- | ----------- | ------------------------ |
-| N/A        | N/A         | N/A                      |
-| N/A        | N/A         | N/A                      |
+| ------------- | ------------- | ------------- | 
+| [axios](https://github.com/axios/axios.git) | Promise based HTTP client for the browser and node.js | nodejs, javascript, promise, http-client |
+| [awesome-go](https://github.com/avelino/awesome-go.git) | A curated list of awesome Go frameworks, libraries and software | go, html, xml, golang|
+|[grafana](https://github.com/grafana/grafana)|The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.|mysql, go, postgress|
+
 
 ### Fullstack
 
 | Repository | Description | Languages and tools used |
-| ---------- | ----------- | ------------------------ |
-| N/A        | N/A         | N/A                      |
-| N/A        | N/A         | N/A                      |
+| ------------- | ------------- | ------------- | 
+| [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. | react, nodejs|
+
+
 
 ### Devops
 
 | Repository | Description | Languages and tools used |
-| ---------- | ----------- | ------------------------ |
-| N/A        | N/A         | N/A                      |
-| N/A        | N/A         | N/A                      |
+| ------------- | ------------- | ------------- | 
+| [ansible](https://github.com/ansible/ansible) | Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. | python, shell, c#|
+|[portainer](https://github.com/portainer/portainer)|Making Docker and Kubernetes management easy.|docker, kubernates|
+
+
 
 ### AI and ML
 
 | Repository | Description | Languages and tools used |
-| ---------- | ----------- | ------------------------ |
-| N/A        | N/A         | N/A                      |
-| N/A        | N/A         | N/A                      |
+| ------------- | ------------- | ------------- | 
+| [transformers](https://github.com/huggingface/transformers.git) | Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX | python, pytorch, tensorflow, JAX, flax|
+
 
 ### App
 
 | Repository | Description | Languages and tools used |
-| ---------- | ----------- | ------------------------ |
-| N/A        | N/A         | N/A                      |
-| N/A        | N/A         | N/A                      |
+| ------------- | ------------- | ------------- | 
+| [flutter-examples](https://github.com/nisrulz/flutter-examples) | [Examples] Simple basic isolated apps, for budding flutter devs. | dart, flutter|
+
+
 
 ### Others
 
 | Repository | Description | Languages and tools used |
-| ---------- | ----------- | ------------------------ |
-| N/A        | N/A         | N/A                      |
-| N/A        | N/A         | N/A                      |
+| ------------- | ------------- | ------------- | 
+| [devdocs](https://github.com/freeCodeCamp/devdocs) | API Documentation Browser | docs, api-documentation|
+
+
 
 <hr>
 
