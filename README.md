@@ -72,5 +72,5 @@
 
 
 <hr>
-
-Contribute to this repo by adding more projects to readme!!
+Contribute to this repo by adding more projects!! <br/>
+you can find the contributing guidlines <a href="./CONTRIBUTING.md">here</a>
