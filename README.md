@@ -30,7 +30,7 @@
 | [awesome-go](https://github.com/avelino/awesome-go.git) | A curated list of awesome Go frameworks, libraries and software | go, html, xml, golang|
 |[grafana](https://github.com/grafana/grafana)|The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.|mysql, go, postgress|
 | [iD](https://github.com/openstreetmap/iD) | iD is a JavaScript OpenStreetMap editor. | javascript |
-
+| [iD](https://github.com/openstreetmap/iD) | iD is a JavaScript OpenStreetMap editor. | javascript |
 
 
 ### Fullstack
@@ -38,6 +38,8 @@
 | Repository | Description | Languages and tools used |
 | ------------- | ------------- | ------------- | 
 | [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. | react, nodejs|
+| [jsPDF](https://github.com/parallax/jsPDF) | A library to generate PDFs in JavaScript. | javascript, typescript, HTML|
+
 
 
 ### Database
