@@ -30,6 +30,7 @@
 | [awesome-go](https://github.com/avelino/awesome-go.git) | A curated list of awesome Go frameworks, libraries and software | go, html, xml, golang|
 |[grafana](https://github.com/grafana/grafana)|The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.|mysql, go, postgress|
 | [iD](https://github.com/openstreetmap/iD) | iD is a JavaScript OpenStreetMap editor. | javascript |
+| [VitePress](https://github.com/vuejs/vitepress) | VitePress is VuePress' spiritual successor, built on top of vite. | typescript, vue, javascript |
 
 
 ### Fullstack
