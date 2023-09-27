@@ -84,3 +84,6 @@
 <hr>
 Contribute to this repo by adding more projects!! <br/>
 you can find the contributing guidlines <a href="./CONTRIBUTING.md">here</a>
+
+### New Changes
+These changes are for parctice purposes
